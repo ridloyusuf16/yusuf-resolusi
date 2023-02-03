@@ -2,3 +2,6 @@ RESOLUSI YUSUF
 
 - Konsisten belajar hal-hal yang berkaitan dengan web developer
 - Membuat web sederhana dari hal-hal yang sudah dipelajari
+- Belajar CSS
+- Belajar HTML
+- Belajar PHP
