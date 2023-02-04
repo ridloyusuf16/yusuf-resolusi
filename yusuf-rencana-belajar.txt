@@ -5,4 +5,11 @@ RENCANA BELAJAR YUSUF
   * Bootstrap
 - JAVASCRIPT
   * Javascript OOP
+  * Vue
+  * React
 - PHP OOP
+- PHP Framework
+  * Codeigniter
+  * Laravel
+- Python
+  
