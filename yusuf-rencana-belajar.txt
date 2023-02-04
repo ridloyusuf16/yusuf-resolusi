@@ -2,7 +2,6 @@ RENCANA BELAJAR YUSUF
 
 - CSS
   * CSS 3
-  * Bootstrap
 - JAVASCRIPT
   * Javascript OOP
   * Vue
@@ -12,4 +11,3 @@ RENCANA BELAJAR YUSUF
   * Codeigniter
   * Laravel
 - Python
-  
