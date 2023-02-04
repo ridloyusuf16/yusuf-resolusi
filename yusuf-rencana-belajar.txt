@@ -4,7 +4,10 @@ RENCANA BELAJAR YUSUF
   * CSS 3
 - JAVASCRIPT
   * Javascript OOP
-  * Angular
+  * Vue
   * React
 - PHP OOP
+- PHP Framework
+  * Codeigniter
   * Laravel
+- Python
