@@ -4,4 +4,5 @@ RENCANA BELAJAR YUSUF
   * CSS 3
   * Bootstrap
 - JAVASCRIPT
+  * Javascript OOP
 - PHP OOP
